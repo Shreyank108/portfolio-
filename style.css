@@ -4,13 +4,13 @@
 }
 @font-face {
     font-family: callifornia;
-    src: url(./cali.woff);
+    src: url(./Callifornia.ttf);
 }
 *{ 
     margin:0; 
     padding:0; 
     box-sizing:border box ; 
-    font-family: head;
+    font-family:head ;
 }
     html,body
 { 
