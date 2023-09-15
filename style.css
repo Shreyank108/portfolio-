@@ -1,8 +1,16 @@
+@font-face {
+    font-family: head;
+    src: url(./Gilroy-Medium.ttf);
+}
+@font-face {
+    font-family: callifornia;
+    src: url(./calli.ttf);
+}
 *{ 
     margin:0; 
     padding:0; 
     box-sizing:border box ; 
-    font-family: gilroy;
+    font-family: head;
 }
     html,body
 { 
