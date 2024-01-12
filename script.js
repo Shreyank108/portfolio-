@@ -52,6 +52,7 @@ document.querySelector("#page2").addEventListener("mousemove",function(dets){
     })
 })
 
+
 var myname=document.querySelector("#page2h1").addEventListener("mousemove",function(){
     gsap.to("#cir",{ 
         opacity:1,

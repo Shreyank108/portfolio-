@@ -268,11 +268,11 @@
     width: 150px;
     height: 150px;
     border-radius: 50%;
-    background-image: url(./shreyank.jpg);
+    background-image: url(./Snapchat-1066924536.jpg);
     background-position: top;
     background-size: cover;
     position: absolute;
-    rotate: 90deg;
+    rotate: 10deg;
  }
 
  #text1{ 
@@ -333,6 +333,9 @@
     border-radius: 50%;
     top: 50%;
     opacity: 0;
+    background-image: url("./shreyank.jpg"); 
+    background-position: center;
+    background-size: cover;
    
 }
 #cir1 img{ 
@@ -1658,4 +1661,13 @@
             right: 0%;
         }
      }
+ }
+
+
+
+ /* E#xtra page added  */ 
+ #ext_page{ 
+    width: 100vw;
+    height: 100vh;
+
  }
